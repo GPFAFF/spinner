@@ -22,9 +22,9 @@
        }
      }
      #spinner {
-       -webkit-transform-origin: center center;
-       -moz-transform-origin: center center;
-       transform-origin: center center;
+       -webkit-transform-origin: 16px 16px;
+       -moz-transform-origin: 16px 16px;
+       transform-origin: 16px 16px;
        -webkit-animation: spin 1s linear infinite;
        -moz-animation: spin 1s linear infinite;
        animation: spin 1s linear infinite; 
